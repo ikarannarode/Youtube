@@ -41,8 +41,8 @@ const LeftNav = () => {
                                     navigate("/");
                                 }}
                                 className={`${selectedCategory === item.name
-                                        ? "bg-white/[0.15]"
-                                        : ""
+                                    ? "bg-white/[0.15]"
+                                    : ""
                                     }`}
                             />
                             {item.divider && (
@@ -53,7 +53,7 @@ const LeftNav = () => {
                 })}
                 <hr className="my-5 border-white/[0.2]" />
                 <div className="text-white/[0.5] text-[12px]">
-                    Youtube:by karan with❤️
+                    Youtube:by karan with ❤️
                 </div>
             </div>
         </div>
