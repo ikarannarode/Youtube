@@ -53,7 +53,7 @@ const LeftNav = () => {
                 })}
                 <hr className="my-5 border-white/[0.2]" />
                 <div className="text-white/[0.5] text-[12px]">
-                    Youtube:by karan with ❤️
+                    Youtube: by KΔRΔN with ❤️
                 </div>
             </div>
         </div>
